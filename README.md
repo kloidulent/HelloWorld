@@ -7,7 +7,7 @@ I am an accountant who likes to use technology to solve problems.  In my typical
 
 When authoring code the primary decision that needs to be made is *"Will the time taken to write this code be less than the total cost of the next best alternative?"*  The next best alternative is *"(Accuracy required + Boredom Factor) x Times Executed"*.
 
-
+The first real project that I will be adding to github will be the Concat Excel tool.
 
 
 ![2021-06-10 01 32 30](https://user-images.githubusercontent.com/10345958/132109425-df108745-f291-4c5d-9a65-bc5ad4674e5c.jpg)

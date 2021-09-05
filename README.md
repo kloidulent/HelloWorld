@@ -12,6 +12,7 @@ The first real project that I will be adding to github will be the Concat Excel 
 This text is being added in response to open issue.  In real life the issue would probably be resolved via a code fix but in this example just this text will be added.
 
 
+
 ![2021-06-10 01 32 30](https://user-images.githubusercontent.com/10345958/132109425-df108745-f291-4c5d-9a65-bc5ad4674e5c.jpg)
 
 

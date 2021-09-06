@@ -1,5 +1,5 @@
 # HelloWorld
-Not my first repository, although I'm still very much a beginner.
+Not my first repository, although I'm still very much a beginner.  I am just adding some text so I can remember the exact flow...
 
 ## A little about me
 
